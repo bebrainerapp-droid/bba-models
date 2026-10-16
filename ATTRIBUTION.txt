@@ -1,0 +1,15 @@
+BB Anatomy 3D - model files (*.bin)
+
+These files are adapted (simplified, reduced in polygon count, re-packed and re-coloured in the viewer) from:
+
+- Z-Anatomy - The libre 3D atlas of anatomy - CC BY-SA 4.0
+  https://www.z-anatomy.com  |  https://github.com/LluisV/Z-Anatomy
+- BodyParts3D - The Database Center for Life Science - CC BY-SA 2.1 Japan
+  https://dbarchive.biosciencedbc.jp/en/bodyparts3d/download.html
+- Cranial nerves: "Cranial Nerves and Foramina" by University of Dundee, CAHID - CC BY 4.0
+
+The kidney model of Z-Anatomy (CC BY-NC) and the inner-ear model (CC BY-NC-SA) are NOT included.
+
+These adapted model files are distributed under CC BY-SA 4.0:
+https://creativecommons.org/licenses/by-sa/4.0/
+Changes made: selected structures, merged into named parts, decimated, quantised and packed into a compact binary format for web viewing.
